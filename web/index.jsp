@@ -47,8 +47,9 @@ Proven ability to leverage past knowledge of various processes, documenting such
 Proven track record in analyzing, problem solving, and customer service.  
 Demonstrated history of producing accurate, timely results while adhering to company best practices.</p>
         
-        <h1><u>PROFESSIONAL EXPERIENCE</u> <h1/>
-<div class="Modis">
+        <div class="Modis">
+        <h1>PROFESSIONAL EXPERIENCE <h1/>
+
             <p>
              
                 MODIS, Milwaukee WI								2014-2014
@@ -64,10 +65,11 @@ Programmer Analyst 2 (2012-2013)
 Analyzed, developed, and maintained mainframe systems, converted two new firms and expanded hundreds of subsidiaries and brokerage business.  Project management, business analysis, customer service, and quality assurance skills used within the department and the organization supporting Customer Statements, Money Market Funds, Debit Card, Customer Portfolios, IRA’s, Year End Tax, Tax Lot Accounting, Beta Link, Proxy, Prospectus, and Master Limited Partnership.
  
 <p/>
+
 <h1> 
     EDUCATION AND PROFESSIONAL DEVELOPMENT
     </h1>
-<div>
+<div class="Modis">
        
 <p>
 Bachelor of Business Administration (B.B.A.) MCS - Management Computer Systems, 
